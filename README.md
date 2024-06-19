@@ -15,3 +15,5 @@ Chrome extension that enhances your LeetCode experience by displaying similar pr
 
 1. Navigate to any LeetCode problem (e.g., `https://leetcode.com/problems/two-sum/`).
 2. The extension will automatically add a section below the "Discussion" section with similar problems and solutions.
+
+3. Source for the solutions used: https://github.com/walkccc/LeetCode
